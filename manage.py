@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+"for administrative tasks"
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'CarPricePrediction.settings')
